@@ -1,8 +1,9 @@
-EN:
+- EN:
 - Hi, I’m Ilya
 - I’m from Russia.
 - I will post my projects here, viruses (the archives will be password-protected) and more
-RU:
+
+- RU:
 - Привет, я Илья.
 - Я из России
 - Я здесь буду выкладывать мои проекты, вирусы (архивы будут защищены паролем) и другое
